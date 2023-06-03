@@ -22,8 +22,8 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-20 h-20 object-contain" />
-          <p className="text-white text-lg">
-            Simon <span className="sm:block hidden">| React Developer</span>
+          <p className="text-white text-lg font-bold flex">
+            Simón &nbsp;<span className="sm:block hidden">| React Master</span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
