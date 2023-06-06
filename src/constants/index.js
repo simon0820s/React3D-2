@@ -53,6 +53,10 @@ import {
       title: "Python Developer",
       icon: backend,
     },
+    {
+      title: "Power Lifter",
+      icon: web,
+    },
   ];
   
   const technologies = [
