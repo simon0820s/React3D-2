@@ -19,7 +19,7 @@ const Hero = () => {
         </motion.div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} text-neutral-100`}>
+          <h1 className={`${styles.heroHeadText} text-neutral-200`}>
             Hi, I'm <span className="text-[#915eff]">Simón</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-neutral-200`}>
